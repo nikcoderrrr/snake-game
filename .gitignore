@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+snake_highscore.json
+.venv/
+.env
